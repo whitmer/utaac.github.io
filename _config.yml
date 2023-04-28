@@ -1,3 +1,54 @@
-theme: jekyll-theme-minimal
-title: UTAAC
-description: UTAAC description
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: Utah Center for AAC Excellence
+description: |
+  Helping communicators and the people that support them
+owner: UT-AAC # or company name
+first_published: 2023 # if migrating another site, the year of your first publish
+email: brian@openaac.org
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.utaac.org" # the base hostname & protocol for your site
+social:
+  #github: https://github.com/aac-in-the-cloud
+  #facebook-official: https://www.facebook.com/AACintheCloud/
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square: https://www.youtube.com/c/myCoughDropAAC
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
