@@ -19,6 +19,7 @@ help you get started on your AAC journey. We want everyone to feel comfortable l
 - <a href="#what">What is AAC?</a>
 - <a href="#starting">Getting Started with AAC</a>
 - <a href="#concepts">AAC Basic Concepts</a>
+- <a href="#fun">Have Fun!</a>
 - <a href="#more">Ready for More?</a>
 
 <a name="what" style='margin-bottom: 50px; display: block; visibility: hidden;'></a>
@@ -190,6 +191,16 @@ In collaboration the practitioners and AAC users, the Communication Bill of Righ
  <a href="https://www.asha.org/siteassets/njc/njc-communication-bill-rights.pdf">Communiation Bill of Rights</a>
 
  <img src="https://3.bp.blogspot.com/-UJRVESlJBv8/WfHr6fKrtYI/AAAAAAAA5S4/3UAf1UiavRkWlmCnwUCtO1NXB1laXaf1gCLcBGAs/s1600/boraac.jpeg" style='height: 850px;'/>
+
+<a name="fun" style='margin-bottom: 50px; display: block; visibility: hidden;'></a>
+<h2>Have Fun!</h2>
+It's easy to think about AAC as a clinical, medical process. But
+remember to have fun! AAC is communication, and if communication
+is reduced to trying to get the right answer or if it's always
+about work, then it loses a huge part of its meaning. Open-ended
+interactions are an integral part of any communication strategy,
+and making things fun is a great way for everyone to be
+surprised by what happens!
 
 <a name="more" style='margin-bottom: 50px; display: block; visibility: hidden;'></a>
 <h2>Ready For More?</h2>

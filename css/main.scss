@@ -2001,3 +2001,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			padding: 0;
 		}
 	}
+
+	section .inner h2 {
+		margin-left: -20px;
+	}
