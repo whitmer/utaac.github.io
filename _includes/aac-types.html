@@ -1,0 +1,163 @@
+<style>
+  .aac-type-select.selected {
+    background: #ddd;
+    border-top: 1px solid #888;
+    border-bottom: 2px solid #888;
+    margin: -1px 0 -2px;
+    font-weight: bold;
+  }
+</style>
+Here's a list of some AAC options across different categories:
+<div style="display: grid; grid-template-columns: auto auto auto;">
+  <div style="display: inline-grid; padding: 5px;">
+    <a href="#lite" class="aac-type-select">
+      Lite Tech
+      <img src="/images/podd-book.jpeg" style="max-width: 100%;"/>
+    </a>
+  </div>    
+  <div style="display: inline-grid; padding: 5px;">
+    <a href="#mid" class="aac-type-select">
+      Mid Tech
+      <img src="/images/go-talk.jpeg" style="max-width: 100%;"/>
+    </a>
+  </div>    
+  <div style="display: inline-grid; padding: 5px;">
+    <a href="#high" class="aac-type-select selected">
+      High Tech
+      <img src="/images/coughdrop-tablet.jpeg" style="max-width: 100%;"/>
+    </a>
+  </div>    
+</div>
+
+<div class="aac-type lite" style="display: none;">
+<h3>Lite Tech AAC</h3>
+<ol>
+  <li><strong>Communication Boards:</strong> These printed boards contain symbols, words, or pictures that the individual can point to in order to communicate. If someone cannot point, a partner can assist them in finding or selecting the desired concept.</li>
+  <li><strong>Communication Books:</strong> Books with pages containing various symbols, pictures, or words to support communication.</li>
+  <li><strong>Picture Exchange Systems (PECS):</strong> A system where individuals use pictures or symbols to communicate their needs or desires.</li>
+  <li><strong>Choice Cards:</strong> Simple cards with options or choices that individuals can point to.</li>
+  <li><strong>Gestures and Sign Language:</strong> Simple hand signals or signs to convey basic messages.</li>
+</ol>
+<table>
+  <tr>
+    <td>Pros:
+      <ul>
+        <li>Can be created at home</li>
+        <li>Less expensive</li>
+        <li>Easier to replace</li>
+        <li>Stand up to wear and tear</li>
+      </ul>
+    </td>
+    <td>Cons:
+      <ul>
+        <li>Doesn't speak out loud</li>
+        <li>Need page flips to get to more vocabulary</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+<!-- 
+  https://www.youtube.com/watch?v=z-w3AGUPMso
+  https://app.mycoughdrop.com/example/core-60?ref=blog
+  https://speechymusings.com/2020/01/14/where-to-find-free-core-vocabulary-low-tech-aac-boards/
+  https://picseepal.com/
+-->
+</div>
+
+<div class="aac-type mid" style="display: none;">
+<h3>Mid Tech AAC</h3>
+<ol>
+  <li><strong>Speech-Generating Devices (SGDs):</strong> Dedicated devices with synthesized or recorded speech output. Examples might include a BigMack button or a GoTalk device.</li>
+  <li><strong>Simple Voice Recorders:</strong> Devices that allow the recording of short messages for playback.</li>
+</ol>
+<!--
+  https://www.youtube.com/watch?v=Q5jY5JsXE84
+  https://www.ablenetinc.com/bigmack/
+  https://www.amazon.com/Ablenet-10002100-BIGmack-Communicator/dp/B0006IH7I4
+  https://www.attainmentcompany.com/gotalk-9
+  https://www.attainmentcompany.com/technology/gotalks
+-->
+<table>
+  <tr>
+    <td>Pros:
+      <ul>
+        <li>Speech output</li>
+        <li>Minimal setup</li>
+        <li>Physical buttons provide clear feedback</li>
+      </ul>
+    </td>
+    <td>Cons:
+      <ul>
+        <li>Can be expensive</li>
+        <li>Limited vocabulary</li>
+        <li>Electronics can be damaged</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+</div>
+
+<div class="aac-type high">
+<h3>High Tech AAC</h3>
+<ol>
+  <li><strong>Tablet-Based AAC Systems:</strong> Specialized software running on tablets that can be customized for individual needs.</li>
+  <li><strong>Communication Apps:</strong> Apps installed on tablets or smartphones with text-to-speech functionality, such as Proloquo2Go or TouchChat.</li>
+  <li><strong>Eye-Tracking AAC Systems:</strong> Devices that track eye movement to select symbols or words on a screen.</li>
+  <li><strong>Alternative Access Apps:</strong> For those physically unable to use the touchscreen, SGDs offer flexible access options including:
+    Eye-gaze
+    Head tracking
+    Joystick and alternative mouse control
+    Single and multiple switch control
+    Thus, even children with severe physical disabilities can operate a life-changing AAC device.
+  </li>
+</ol>
+<table>
+  <tr>
+    <td>Pros:
+      <ul>
+        <li>Speech output</li>
+        <li>Highly configurable</li>
+        <li>Initial setup can be involved</li>
+        <li>Replacements can take time</li>
+        <li>Alternative access options</li>
+      </ul>
+    </td>
+    <td>Cons:
+      <ul>
+        <li>Can be expensive</li>
+        <li>Electronics can be damaged</li>
+      </ul>
+    </td>
+  </tr>
+</table><!--
+  https://www.youtube.com/watch?v=TSlGz7g9LIs
+  https://www.coughdrop.com/
+  https://www.assistiveware.com/products/proloquo
+  https://speakforyourself.org/
+  https://touchchatapp.com/
+  https://lampwflapp.com/
+  https://www.cboard.io/
+-->
+</div>
+<div style="margin-bottom: 30px;"></div>
+<p>It's important to remember that the choice of AAC system depends on an individual, everyone has different needs, preferences and abilities. Professional consultants like speech-language pathologists can provide an assessment, which will help in selecting the most appropriate AAC solution for each person. Additionally, the field of AAC continues to evolve with advancements in technology, so new solutions may become available over time.</p>
+<script>
+  document.querySelectorAll('.aac-type-select').forEach(function(obj) {
+    obj.addEventListener('click', function(e) {
+      e.preventDefault();
+      var key = e.target.closest('a').getAttribute('href').replace(/#/, '');
+      if(key) {
+        document.querySelectorAll('.aac-type-select').forEach(function(o) {
+          o.classList.remove('selected');
+        })
+        document.querySelectorAll('.aac-type').forEach(function(o) {
+          o.style.display = 'none';
+        })
+      }
+      document.querySelectorAll('.aac-type.' + key).forEach(function(o) {
+        o.style.display = 'block';
+      });
+      e.target.closest('a').classList.add('selected');
+    })
+  });
+</script>

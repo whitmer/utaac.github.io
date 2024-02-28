@@ -27,53 +27,7 @@ AAC empowers individuals to convey their thoughts, needs, and emotions, which ca
 
 With the aid of AAC, many individuals enjoy full and productive lives, able to respond to questions and communicate independently throughout their days.
 
-Here's a list of some AAC options across different categories:
-
-<h3>Low Tech AAC</h3>
-1. **Communication Boards:** These printed boards contain symbols, words, or pictures that the individual can point to in order to communicate. If someone cannot point, a partner can assist them in finding or selecting the desired concept.
-2. **Communication Books:** Books with pages containing various symbols, pictures, or words to support communication.
-3. **Picture Exchange Systems (PECS):** A system where individuals use pictures or symbols to communicate their needs or desires.
-4. **Choice Cards:** Simple cards with options or choices that individuals can point to.
-5. **Gestures and Sign Language:** Simple hand signals or signs to convey basic messages.
-<!-- 
-  https://www.youtube.com/watch?v=z-w3AGUPMso
-  https://app.mycoughdrop.com/example/core-60?ref=blog
-  https://speechymusings.com/2020/01/14/where-to-find-free-core-vocabulary-low-tech-aac-boards/
-  https://picseepal.com/
--->
-
-<h3>Mid Tech AAC</h3>
-1. **Speech-Generating Devices (SGDs):** Dedicated devices with synthesized or recorded speech output. Examples might include a BigMack button or a GoTalk device.
-2. **Simple Voice Recorders:** Devices that allow the recording of short messages for playback.
-<!--
-  https://www.youtube.com/watch?v=Q5jY5JsXE84
-  https://www.ablenetinc.com/bigmack/
-  https://www.amazon.com/Ablenet-10002100-BIGmack-Communicator/dp/B0006IH7I4
-  https://www.attainmentcompany.com/gotalk-9
-  https://www.attainmentcompany.com/technology/gotalks
--->
-
-<h3>High Tech AAC</h3>
-1. **Tablet-Based AAC Systems:** Specialized software running on tablets that can be customized for individual needs.
-2. **Communication Apps:** Apps installed on tablets or smartphones with text-to-speech functionality, such as Proloquo2Go or TouchChat.
-3. **Eye-Tracking AAC Systems:** Devices that track eye movement to select symbols or words on a screen.
-4. **Alternative Access Apps:** For those physically unable to use the touchscreen, SGDs offer flexible access options including:
-Eye-gaze
-Head tracking
-Joystick and alternative mouse control
-Single and multiple switch control
-Thus, even children with severe physical disabilities can operate a life-changing AAC device.
-<!--
-  https://www.youtube.com/watch?v=TSlGz7g9LIs
-  https://www.coughdrop.com/
-  https://www.assistiveware.com/products/proloquo
-  https://speakforyourself.org/
-  https://touchchatapp.com/
-  https://lampwflapp.com/
-  https://www.cboard.io/
--->
-
-It's important to remember that the choice of AAC system depends on an individual, everyone has different needs, preferences and abilities. Professional consultants like speech-language pathologists can provide an assessment, which will help in selecting the most appropriate AAC solution for each person. Additionally, the field of AAC continues to evolve with advancements in technology, so new solutions may become available over time.
+{% include aac-types.html %}
 
 <a name="partner" style='margin-bottom: 50px; display: block; visibility: hidden;'></a>
 <h2>Being a Good Communication Partner</h2>

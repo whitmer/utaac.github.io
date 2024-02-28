@@ -2005,3 +2005,35 @@ $baseurl: '{{ site.baseurl }}/images';
 	section .inner h2 {
 		margin-left: -20px;
 	}
+
+	img.clipart {
+		width: 200px;
+		max-height: 220px;
+		max-width: 40%;
+		object-fit: contain;
+		object-position: center;
+ }
+ img.clipart.left {
+		float: left;
+		margin-right: 10px;
+		margin-bottom: 5px;
+ }
+ img.clipart.right {
+		float: right;
+		margin-left: 10px;
+		margin-bottom: 5px;
+ }
+ .video_box {
+	width: 45%;
+	float: left;
+	text-align: center;
+	height: 320px;
+}
+.video_box img {
+	max-width: 300px;
+	display: block;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 0 auto 10px;
+}

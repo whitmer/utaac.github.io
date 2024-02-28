@@ -24,6 +24,7 @@ help you get started on your AAC journey. We want everyone to feel comfortable l
 
 <a name="what" style='margin-bottom: 50px; display: block; visibility: hidden;'></a>
 <h2>What is AAC?</h2>
+<img src='/images/clipart/aac.webp' class='clipart left' />
 Augmentative and Alternative Communication (AAC) is actually
 a whole category of different kinds of tools and strategies.
 The main purpose of AAC is to help people express themselves
@@ -37,58 +38,13 @@ AAC empowers individuals to convey their thoughts, needs, and emotions, which ca
 
 With the aid of AAC, many individuals enjoy full and productive lives, able to respond to questions and communicate independently throughout their days.
 
-Here's a list of some AAC options across different categories:
-
-<h3>Low Tech AAC</h3>
-1. **Communication Boards:** These printed boards contain symbols, words, or pictures that the individual can point to in order to communicate. If someone cannot point, a partner can assist them in finding or selecting the desired concept.
-2. **Communication Books:** Books with pages containing various symbols, pictures, or words to support communication.
-3. **Picture Exchange Systems (PECS):** A system where individuals use pictures or symbols to communicate their needs or desires.
-4. **Choice Cards:** Simple cards with options or choices that individuals can point to.
-5. **Gestures and Sign Language:** Simple hand signals or signs to convey basic messages.
-<!-- 
-  https://www.youtube.com/watch?v=z-w3AGUPMso
-  https://app.mycoughdrop.com/example/core-60?ref=blog
-  https://speechymusings.com/2020/01/14/where-to-find-free-core-vocabulary-low-tech-aac-boards/
-  https://picseepal.com/
--->
-
-<h3>Mid Tech AAC</h3>
-1. **Speech-Generating Devices (SGDs):** Dedicated devices with synthesized or recorded speech output. Examples might include a BigMack button or a GoTalk device.
-2. **Simple Voice Recorders:** Devices that allow the recording of short messages for playback.
-<!--
-  https://www.youtube.com/watch?v=Q5jY5JsXE84
-  https://www.ablenetinc.com/bigmack/
-  https://www.amazon.com/Ablenet-10002100-BIGmack-Communicator/dp/B0006IH7I4
-  https://www.attainmentcompany.com/gotalk-9
-  https://www.attainmentcompany.com/technology/gotalks
--->
-
-<h3>High Tech AAC</h3>
-1. **Tablet-Based AAC Systems:** Specialized software running on tablets that can be customized for individual needs.
-2. **Communication Apps:** Apps installed on tablets or smartphones with text-to-speech functionality, such as Proloquo2Go or TouchChat.
-3. **Eye-Tracking AAC Systems:** Devices that track eye movement to select symbols or words on a screen.
-4. **Alternative Access Apps:** For those physically unable to use the touchscreen, SGDs offer flexible access options including:
-Eye-gaze
-Head tracking
-Joystick and alternative mouse control
-Single and multiple switch control
-Thus, even children with severe physical disabilities can operate a life-changing AAC device.
-<!--
-  https://www.youtube.com/watch?v=TSlGz7g9LIs
-  https://www.coughdrop.com/
-  https://www.assistiveware.com/products/proloquo
-  https://speakforyourself.org/
-  https://touchchatapp.com/
-  https://lampwflapp.com/
-  https://www.cboard.io/
--->
-
-It's important to remember that the choice of AAC system depends on an individual, everyone has different needs, preferences and abilities. Professional consultants like speech-language pathologists can provide an assessment, which will help in selecting the most appropriate AAC solution for each person. Additionally, the field of AAC continues to evolve with advancements in technology, so new solutions may become available over time.
+{% include aac-types.html %}
 
 <a name="starting" style='margin-bottom: 50px; display: block; visibility: hidden;'></a>
 <h2>Getting Started with AAC</h2>
 
 <h3>Getting Help - AAC Evaluations</h3>
+<img src='/images/clipart/checklist.png' class='clipart left' />
 Anyone is welcome to start using AAC tools and strategies on
 their own, but it may be useful consult with a professional.
 Assistive Technology evaluations are available to people of all ages throughout the state of Utah. Parents can at any time submit a request for their child's school team to complete an AAC evaluation. It is recommended that this request be in formal or in writing for your records. The Utah Assistive Technology Teams complete AAC evaluations for school aged children throughout the state. More information can be found on their website: <a href="http://uatt.org/">Utah Assistive Technology Teams</a>.
@@ -98,6 +54,7 @@ Assistive Technology evaluations are available to people of all ages throughout 
 If you are seeking a free consultation with UCAT, <a href="https://jobs.utah.gov/usor/vr/services/ucatreferral.pdf">please fill out a referral form</a> and <a href="mailto:ucat@utah.gov">email it to ucat@utah.gov</a>.
 
 <h3>AAC Takes Time - Try to be Patient and Consistent</h3>
+<img src='/images/clipart/time.png' class='clipart left' />
 Some people take to AAC very quickly, and some can take
 months or even years to develop comfort and proficiency. It can
 be discouraging for AAC users and those around them if progress happens more slowly than expected. One of the best indicators for whether AAC is eventually proven useful for an individual is
@@ -106,6 +63,7 @@ if you are helping an AAC user it is important to be patient
 and not to abandon support strategies too early or without consutling with the rest of the team.
 
 <h3>Daily Activities and Routines</h3>
+<img src='/images/clipart/calendar.png' class='clipart right' />
 Think about some routines or activities that happen 
 frequently. If it's hard to remember to use AAC all the time,
 it may be useful to try to make it part of a routine. Think
@@ -125,6 +83,7 @@ say anything up to them.
 <h2>AAC Basic Concepts</h2>
 
 <h3>Common Concerns</h3>
+<img src='/images/clipart/questions.png' class='clipart right' />
 **Will using AAC block progress with natural speech development?**
    Numerous studies have shown that AAC interventions can actually support and enhance natural speech development in individuals with communication disorders. AAC can serve as a bridge to improve communication skills and eventually reduce the need for AAC devices.
 
@@ -151,6 +110,7 @@ say anything up to them.
 <a href="/faq">More Available at Frequently Asked Questions</a>
 			
 <h3>Language Development</h3>
+<img src='/images/clipart/abc.png' class='clipart left' />
 
 Children move through several different stages as language develops beginning at the cooing stage, into words, two-three word sentences, etc. Children who need AAC to help them develop language begin in the same position as children who don’t use that type of strategy for support.
 
@@ -159,6 +119,7 @@ Children move through several different stages as language develops beginning at
 <a href="https://praacticalaac.org/wp-content/uploads/filebase/_AAC-Tools/CHICKADEE-AAC-LANGUAGE-DEVLOPMENT-MODEL.pdf">A Language Development Lens for AAC</a>
 
 <h3>Core Words</h3>
+<img src='/images/clipart/core.png' class='clipart right' />
 Core words are those words that make up the majority of the vocabulary used in day to day communication. They help people express their wants and needs. Core words are important because they help the AAC user express a wide variety of concepts with only a few words.
 Using core words is a good place to start using an AAC. You can go as slow or as fast as you want adding in words as you feel work for the user.
 
@@ -167,13 +128,15 @@ Using core words is a good place to start using an AAC. You can go as slow or as
 
 
 <h3>Modeling</h3>
-	
+<img src='/images/clipart/modeling.png' class='clipart left' />
+
 All children learn best when language is being modeled in a variety of meaningful contexts. Children using AAC learn the same way, through modeling. When our children are babies, we talk to them a lot, modeling language continually throughout the day. When they begin talking we don’t stop modeling language, we keep modeling. The same is true for AAC users. They need modeling, a lot of modeling and then they need a variety of natural contexts to practice their AAC language. We need to remember, receptive language skills (modeling AAC language) develop before expressive language skills do (using their AAC device to communicate). Just as babies experiment with sounds and words, AAC users play around (explore and experiment) and push buttons on their device to get to know it before their language becomes meaningful. AAC users must be taught when to use their device and when to listen just as non AAC users do is specific situations as in a classroom setting. They should always have the device available to them.  Taking away a device is like taping a child’s mouth shut.
 
 <a href="https://presenters.aacconference.com/videos/UkRZeFFURTM=?from_search=1">Keys to Successful Modeling</a> |
 <a href="https://lindaburkhart.com/wp-content/uploads/2016/07/Isaac_instructional_06.pdf">Partner-Assistetd Communication Strategies</a>
 
 <h3>Communication Partners</h3>
+<img src='/images/clipart/partners.png' class='clipart right' />
 This is a term that is used to describe someone you are speaking
 or interacting with. Literature and vidoes may talk about 
 the "AAC user" and the "communication partner" as the two 
@@ -194,6 +157,7 @@ In collaboration the practitioners and AAC users, the Communication Bill of Righ
 
 <a name="fun" style='margin-bottom: 50px; display: block; visibility: hidden;'></a>
 <h2>Have Fun!</h2>
+<img src='/images/clipart/fun.png' class='clipart left' />
 It's easy to think about AAC as a clinical, medical process. But
 remember to have fun! AAC is communication, and if communication
 is reduced to trying to get the right answer or if it's always
