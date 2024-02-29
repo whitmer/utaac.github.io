@@ -53,15 +53,7 @@ One of the best indicators of success in AAC adoption is engagement by the AAC u
 <a name="community" style='margin-bottom: 50px; display: block; visibility: hidden;'></a>
 <h2>Online Communities</h2>
 
-<a href="https://www.facebook.com/groups/873436332667973/?ref=group_browse">AAC - Alternative Awesome Communicators</a>
-
-<a href="https://www.facebook.com/groups/280995758986033/?ref=group_browse">AAC and Literacy</a>
-
-<a href="https://www.facebook.com/AACFamilyFun/">AAC Family Fun</a>
-
-<a href="https://www.facebook.com/groups/AACthruMMM/">AAC Through Motivate, Model, Move Out Of The Way</a>
-
-<a href="https://www.facebook.com/groups/456220758119314/?multi_permalinks=729918680749519&notif_id=1578395446925023&notif_t=group_highlights">Ask Me, I'm An AAC User!</a> (note that this community has very specific rules that need to be followed before posting)
+{% include aac-communities.html %}
 
 <a name="independence" style='margin-bottom: 50px; display: block; visibility: hidden;'></a>
 <h2>Working Toward Independence</h2>

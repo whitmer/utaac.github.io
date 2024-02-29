@@ -46,17 +46,9 @@ With the aid of AAC, many individuals enjoy full and productive lives, able to r
 If you want to learn more, here's a great article with some tips for <a href="https://www.assistiveware.com/learn-aac/build-communication-partner-skills">how to up your game as an AAC communication partner</a>.
 
 <a name="handouts" style='margin-bottom: 50px; display: block; visibility: hidden;'></a>
-<h2>Comunity Printed Handouts</h2>
+<h2>Community Printed Handouts</h2>
 
-<a href="https://www.dropbox.com/s/9kjpncfr4gfhpi5/AAC%20Definitions.pdf?dl=0">Important AAC Terms Handout</a>
-
-<a href="https://www.dropbox.com/scl/fi/pjjf603yjwbjgrf6zrffy/Choice-Making.pdf?rlkey=ahx4v9z8ai4jvw0ntgtrisobo&dl=0">Choice-Making Support Handout</a>
-
-<a href="https://www.dropbox.com/scl/fi/1zjsmspzvdjgwnokhvue1/communicationpartnerimg-1.PDF?rlkey=751nehchx9rlvdjs0ufsjg57q&dl=0">Becoming a Great Communication Partner Handout</a>
-
-<a href="https://www.dropbox.com/scl/fi/udmlnv4xj0l7uw3682m06/Copy-of-miniAACflipbook.pdf?rlkey=6wew9ud7snc637sqz5fussef2&dl=0">AAC "I Will" Commitment Printoffs</a>
-
-<a href="https://www.dropbox.com/scl/fi/yek4bfiaexiuz635edhhx/Making-Choices-With-Me.pdf?rlkey=e6i1tf8i6kxt6javgbanocs7s&dl=0">Making Choices With Me Handout</a>
+{% include aac-handouts.html for='community' %}
 
 <a name="questions" style='margin-bottom: 50px; display: block; visibility: hidden;'></a>
 <h2>Common Questions</h2>
