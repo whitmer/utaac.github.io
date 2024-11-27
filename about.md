@@ -50,7 +50,7 @@ We are a community of people from various backgrounds with an interest in improv
 <div class='person'>
   <img src="/images/bwhitmer.png" />
   <div class='name'>Brian Whitmer</div>
-  <div class='bio'>Father of an AAC user, developer, advocate, CoughDrop founder
+  <div class='bio'>Parent, developer, advocate, CoughDrop founder
   </div>
 </div>
 <div class='person'>
