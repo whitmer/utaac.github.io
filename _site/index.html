@@ -54,6 +54,13 @@
             <li><a href="index.html">Home</a></li>
             
             
+            <li><a href="/about.html">About</a></li>
+            
+            
+            
+            
+            
+            <li><a href="/faq.html">FAQ</a></li>
             
             
             
@@ -86,9 +93,7 @@
             
             
             
-            
-            
-            
+            <li><a href="mailto:utahaaccenterofexcellence@gmail.com">Contact</a></a></li>
           </ul>
         </div>
       </li>
@@ -97,7 +102,62 @@
 </header>
 
 
-      				<!-- Banner -->
+      <style>
+	.dots .icon {
+		font-size: 50px;
+	}
+	.dots .icon .label {
+		margin-top: -60px;
+		font-size: 30px;
+	}
+	.dots .spacer {
+		width: 50px; 
+		display: inline-block; 
+		border-top: 5px dotted #ff7d7d; 
+		vertical-align: 100px; 
+		padding: 0 20px;
+	}
+
+	.more_dots .icon {
+		font-size: 30px;
+	}
+	.more_dots .icon .label {
+		font-size: 30px;
+		line-height: 40px;
+	}
+	.more_dots a:hover .icon::before {
+		filter: brightness(0.5);
+	}
+	.aac_fallback {
+		display: none;
+	}
+	@media (max-width: 500px) {
+		.aac_preview {
+			display: none;
+		}
+		.aac_fallback {
+			display: inline;
+		}
+	}
+	@media (max-width: 800px) {
+		.dots .icon {
+			font-size: 50px;
+			margin-bottom: 65px;
+		}
+		.dots .icon .label {
+			margin-top: -60px;
+			font-size: 30px;
+		}
+		.dots .spacer {
+			display: none;
+		}
+		.more_dots .icon {
+			margin-bottom: 100px;
+		}
+
+	}
+</style>
+				<!-- Banner -->
 					<section id="banner">
 						<div class="inner">
 							<h2 style='background: rgba(33, 89, 114, 0.7); box-shadow: 10px 0px 5px rgba(33, 89, 114, 0.7), -10px 0px 5px rgba(33, 89, 114, 0.7)'>Utah Center for AAC Excellence</h2>
@@ -112,11 +172,14 @@
 					<header class="major">
 						<h2>What is AAC?</h2>
 						<div class='content dual'>
-							<div class='right'>
-								<div style='margin: 10px; border: 1px solid #888; position: relative; min-height: 100px;'>
+							<div class='right aac_preview'>
+								<div style='margin: 10px; border: 1px solid #888; position: relative; min-height: 100px; overflow: auto;'>
 									<iframe src="https://app.mycoughdrop.com/example/core-24?embed=1" style="min-width: 500px; min-height: 300px; width: 48vw; height: 23vw; margin-top: 5px;"></iframe>
 									<div>Try Out AAC For Yourself!</div>
 								</div>
+							</div>
+							<div class='right aac_fallback'>
+								<img src="/images/qc24.png" style='width: 100%;'/>
 							</div>
 							<div class='left' style='padding: 0 50px; text-align: left;'>
 									<p>Augmentative and Alternative Communication (AAC) is, simply, anything people use to help them communicate. For many people it can be a device or flipbook that they use to geneate speech, or to share thoughts or ideas.</p>
@@ -129,28 +192,15 @@
 					<header class="major">
 						<h2>Where Are You in Your AAC Journey?</h2>
 					</header>
-					<ul class="icons major" style='margin-top: -40px; margin-bottom: 50px;'>
+					<ul class="icons major dots" style='margin-top: -40px; margin-bottom: 50px;'>
 						<li><a href='/journey_new/'><span class="icon fa-lightbulb-o major style1"><span class="label">New</span></span></a></li>
-						<li style='width: 50px; display: inline-block; border-top: 5px dotted #ff7d7d; vertical-align: 45px; padding: 0 20px;'></li>
+						<li class='spacer'></li>
 						<li><a href='/journey_learning/'><span class="icon fa-tablet major style3"><span class="label">Learning</span></span></a></li>
-						<li style='width: 50px; display: inline-block; border-top: 5px dotted #ff7d7d; vertical-align: 45px; padding: 0 20px;'></li>
+						<li class='spacer'></li>
 						<li><a href='/journey_helping/'><span class="icon fa-child major style2"><span class="label">Helping</span></span></a></li>
-						<li style='width: 50px; display: inline-block; border-top: 5px dotted #ff7d7d; vertical-align: 45px; padding: 0 20px;'></li>
+						<li class='spacer'></li>
 						<li><a href='/journey_growing/'><span class="icon fa-commenting major style1"><span class="label">Growing</span></span></a></li>
 					</ul>
-				</section>
-
-				<!-- Two -->
-				<section id="two" class="wrapper style2a special" style='box-shadow: 0 -10px 6px 6px #7073b9;'>
-					<header class="major">
-						<h2>Upcoming and Recent Events</h2>
-						<div>
-							<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FDenver&src=ZjFlZDcxNDRkOGI2Mjg1ZGM4ZWY4NzViZmQzZjZkOTEzYzM4NWRmMTAyMWFjMGRkMTU3YzQ2MWQxMzdjMGI1YkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%238E24AA" style="border-width:0; width: 90%; height: 500px;"  frameborder="0" scrolling="no"></iframe>
-						</div>
-						<!-- TODO: calendars to draw from
-							https://nwacs.info/calendar?view=calendar&month=03-2024
-						-->
-					</header>
 				</section>
 
 				<!-- Three -->
@@ -160,12 +210,34 @@
 							<h2>How Do You AAC?</h2>
 							<p>We're all on a journey, and everyone can use a little help making progress. Below are some resources that can help you learn more about AAC, find experts who can engage and support you on your journey, and get involved in helping others.</p>
 						</header>
-						<ul class="icons major" style='margin-top: -40px; margin-bottom: 50px;'>
-							<li><a href='/for_me/'><span class="icon fa-hand-stop-o major style1" style='width: 200px; color: #ffb75f; border-color: #ccc; height: 4em; line-height: 4em;'><span class="label" style='line-height: 20px; display: block; margin-top: 10px;'>For<br/>Myself</span></span></a></li>
-							<li><a href='/for_family/'><span class="icon fa-group major style2" style='width: 200px; border-color: #ccc; height: 4em; line-height: 4em;'><span class="label" style='line-height: 20px; display: block; margin-top: 10px;'>In My<br/>Family</span></span></a></li>
-							<li><a href='/for_school/'><span class="icon fa-graduation-cap major style3" style='width: 200px; color: #ff8d8d; border-color: #ccc; height: 4em; line-height: 4em;'><span class="label" style='line-height: 20px; display: block; margin-top: 10px;'>In a<br/>School/Clinic</span></span></a></li>
-							<li><a href='/for_community/'><span class="icon fa-subway major style1" style='width: 200px; color: #ffb75f; border-color: #ccc; height: 4em; line-height: 4em;'><span class="label" style='line-height: 20px; display: block; margin-top: 10px;'>In My<br/>Community</span></span></a></li>
+						<ul class="icons major more_dots" style='margin-top: -40px; margin-bottom: 50px;'>
+							<li><a href='/for_me/'><span class="icon fa-hand-stop-o major style1" style='width: 200px; color: #ffb75f; border-color: #ccc; height: 4em; line-height: 4em;'><span class="label" style='line-height: 30px; display: block; margin-top: 0px;'>For<br/>Myself</span></span></a></li>
+							<li><a href='/for_family/'><span class="icon fa-group major style2" style='width: 200px; border-color: #ccc; height: 4em; line-height: 4em;'><span class="label" style='line-height: 30px; display: block; margin-top: 0px;'>In My<br/>Family</span></span></a></li>
+							<li><a href='/for_school/'><span class="icon fa-graduation-cap major style3" style='width: 200px; color: #ff8d8d; border-color: #ccc; height: 4em; line-height: 4em;'><span class="label" style='line-height: 30px; display: block; margin-top: 0px;'>In a<br/>School/Clinic</span></span></a></li>
+							<li><a href='/for_community/'><span class="icon fa-subway major style1" style='width: 200px; color: #ffb75f; border-color: #ccc; height: 4em; line-height: 4em;'><span class="label" style='line-height: 30px; display: block; margin-top: 0px;'>In My<br/>Community</span></span></a></li>
 						</ul>
+					</div>
+				</section>				
+
+				
+				<!-- Two -->
+				<section id="two" class="wrapper style2a special" style='box-shadow: 0 -10px 6px 6px #7073b9;'>
+					<header class="major">
+						<h2>Upcoming and Recent Events</h2>
+						<div>
+							<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FDenver&src=ZjFlZDcxNDRkOGI2Mjg1ZGM4ZWY4NzViZmQzZjZkOTEzYzM4NWRmMTAyMWFjMGRkMTU3YzQ2MWQxMzdjMGI1YkBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%238E24AA" style="border-width:0; width: 90%; height: 500px;"  frameborder="0" scrolling="no"></iframe>
+						</div>
+						<!-- TODO: calendars to draw from
+							https://nwacs.info/calendar?view=calendar&month=03-2024
+							https://www.impaactvoices.org/hangouts
+							
+						-->
+					</header>
+				</section>
+
+				<!-- Three -->
+				<section id="three" class="wrapper style3 special" style='box-shadow: 0 -10px 6px 6px #505393;'>
+					<div class="inner">
 						<img src='/images/utaac-logo.svg' style='height: 300px; margin-bottom: 50px;'/>
 						<ul class="features">
 							<li class="icon fa-question">
@@ -232,6 +304,7 @@
     
     <li><a href="/faq">FAQs</a></li>
     <li><a href="/about">About</a></li>
+    <li><a href="mailto:utahaaccenterofexcellence@gmail.com">Contact</a></li>
   </ul>
   <ul class="copyright">
     <li>&copy; 

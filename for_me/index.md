@@ -34,7 +34,7 @@ In collaboration the practitioners and AAC users, the Communication Bill of Righ
 
  <a href="https://www.asha.org/siteassets/njc/njc-communication-bill-rights.pdf">Communiation Bill of Rights</a>
 
- <img src="https://3.bp.blogspot.com/-UJRVESlJBv8/WfHr6fKrtYI/AAAAAAAA5S4/3UAf1UiavRkWlmCnwUCtO1NXB1laXaf1gCLcBGAs/s1600/boraac.jpeg" style='height: 850px;'/>
+ <img src="https://3.bp.blogspot.com/-UJRVESlJBv8/WfHr6fKrtYI/AAAAAAAA5S4/3UAf1UiavRkWlmCnwUCtO1NXB1laXaf1gCLcBGAs/s1600/boraac.jpeg" style='height: 850px; max-width: 100%; object-fit: contain;'/>
 
 <a name="learning" style='margin-bottom: 50px; display: block; visibility: hidden;'></a>
 <h2>Additional Strategies</h2>

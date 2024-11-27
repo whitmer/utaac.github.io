@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Frequently Asked Questions - UTAAC
+include_nav: true
+nav_title: FAQ
 page_title: Frequently Asked Questions
 description: Common misunderstandings and questions for beginning AAC use
 ---

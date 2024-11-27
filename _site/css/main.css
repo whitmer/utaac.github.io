@@ -864,4 +864,4 @@ img.clipart.right { float: right; margin-left: 10px; margin-bottom: 5px; }
 
 .video_box { width: 45%; float: left; text-align: center; height: 320px; }
 
-.video_box img { max-width: 300px; display: block; border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin: 0 auto 10px; }
+.video_box img { width: 300px; max-width: 100%; display: block; border: 1px solid #ccc; border-radius: 5px; padding: 10px; margin: 0 auto 10px; }

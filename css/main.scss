@@ -2030,7 +2030,8 @@ $baseurl: '{{ site.baseurl }}/images';
 	height: 320px;
 }
 .video_box img {
-	max-width: 300px;
+	width: 300px;
+	max-width: 100%;
 	display: block;
 	border: 1px solid #ccc;
 	border-radius: 5px;
