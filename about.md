@@ -50,7 +50,7 @@ We are a community of people from various backgrounds with an interest in improv
 <div class='person'>
   <img src="/images/cblue.png" />
   <div class='name'>Cheri Blue</div>
-  <div class='bio'>Ph.D. CCC-SLP, assistive technology specialist in Jordan School District
+  <div class='bio'>Ph.D. CCC-SLP, AT specialist, school-based
   </div>
 </div>
 <div class='person'>
@@ -68,19 +68,25 @@ We are a community of people from various backgrounds with an interest in improv
 <div class='person'>
   <img src="/images/silhouette.png" />
   <div class='name'>Breeana Loveland</div>
-  <div class='bio'>M.S. CCC-SLP, Nebo School District
+  <div class='bio'>M.S. CCC-SLP, school-based
   </div>
 </div>
 <div class='person'>
   <img src="/images/silhouette.png" />
   <div class='name'>Susie Cuzme</div>
-  <div class='bio'>CCC-SLP, Jordan School District
+  <div class='bio'>CCC-SLP, school-based
   </div>
 </div>
 <div class='person'>
   <img src="/images/jpearce.png" />
   <div class='name'>Julia Pearce</div>
   <div class='bio'>AT Trainer
+  </div>
+</div>
+<div class='person'>
+  <img src="/images/silhouette.png" />
+  <div class='name'>Marci Mitchell</div>
+  <div class='bio'>MEd, CCC-SLP
   </div>
 </div>
 <div style='clear: both;'></div>
