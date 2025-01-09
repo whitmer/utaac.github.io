@@ -89,6 +89,12 @@ We are a community of people from various backgrounds with an interest in improv
   <div class='bio'>MEd, CCC-SLP
   </div>
 </div>
+<div class='person'>
+  <img src="/images/swahlquist.avif" />
+  <div class='name'>Scot Wahlquist</div>
+  <div class='bio'>Dad of Adam, Adam is cool
+  </div>
+</div>
 <div style='clear: both;'></div>
 
 AAC use is still uncommon enough that many people have never personally met an AAC user, or don't have any experience or support in interacting with them. Additionally, proficiency of training and supporting AAC use is not evenly-distributed geographically, and some areas still need help moving on from outdated ideas and practices.
