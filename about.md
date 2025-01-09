@@ -48,6 +48,18 @@ description: Utah Center for AAC Excellence
 We are a community of people from various backgrounds with an interest in improving AAC adoption in the state of Utah, and around the world.
 
 <div class='person'>
+  <img src="/images/cblue.png" />
+  <div class='name'>Cheri Blue</div>
+  <div class='bio'>Ph.D. CCC-SLP, assistive technology specialist in Jordan School District
+  </div>
+</div>
+<div class='person'>
+  <img src="/images/silhouette.png" />
+  <div class='name'>Megan Singleton</div>
+  <div class='bio'>CCC-SLP
+  </div>
+</div>
+<div class='person'>
   <img src="/images/bwhitmer.png" />
   <div class='name'>Brian Whitmer</div>
   <div class='bio'>Parent, developer, advocate, CoughDrop founder
