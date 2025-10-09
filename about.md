@@ -101,4 +101,4 @@ AAC use is still uncommon enough that many people have never personally met an A
 
 We hope that this community of resources can help AAC be more impactful in the lives of Utah residents, by providing access to best practices, research approaches, and engagement and training opportunities.
 
-If you are interested in getting involved in UTAAC, please <a href="mailto:utahaaccenterofexcellence@gmail.com">reach out to us</a> and we can find a spot where your contribution can make a difference for AAC users here in Utah!
+If you are interested in getting involved in UTAAC, please <a href="mailto:utaacutah@gmail.com">reach out to us</a> and we can find a spot where your contribution can make a difference for AAC users here in Utah!
