@@ -67,6 +67,9 @@ Everyone can benefit from learning more about AAC! Below are a collection of lea
 <a name="lessons" style='margin-bottom: 50px; display: block; visibility: hidden;'></a>
 <h2>Online Lessons</h2>
 
+<a href="https://angelman.org/resources/stepping-into-aac/">
+<img src="/images/stepping-aac.jpg" class='icon'/> Stepping Into AAC</a> is a collection of free weekly lessons and projects to help families of AAC users get started and learn effective support strategies.
+
 <a href="https://www.project-core.com/professional-development-modules/">
 <img src="/images/logos/project-core.jpeg" class='icon'/> Project Core</a> provides free, self-directed professional development modules on a variety of AAC topics.
 

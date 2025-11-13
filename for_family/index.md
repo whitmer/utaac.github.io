@@ -4,6 +4,14 @@ title: AAC at Home - UTAAC
 page_title: AAC at Home
 description: Resources to helped loved ones and caregivers of AAC users
 ---
+
+<div style='width: 600px; margin: 0 auto;'>
+<a href="https://angelman.org/resources/stepping-into-aac/">
+  <img src="/images/stepping-aac.jpg" style='height: 180px; float: left;'/>
+</a> If you are new to AAC and would like a simple week-by-week plan for how to learn and support it for your family, we strongly encourage you to look into <a href="https://angelman.org/resources/stepping-into-aac/">Stepping Into AAC</a>
+<div style='clear: left;'></div>
+</div>
+
 <h3>Topics</h3>
 - <a href="#intro">AAC Basics</a>
 - <a href="#partner">Being a Good Communication Partner</a>
