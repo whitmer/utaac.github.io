@@ -42,6 +42,8 @@ With the aid of AAC, many individuals enjoy full and productive lives, able to r
 
 "Communication Partner" is a term you may hear used by therapsists or teachers, but all it really means is "someone to talk with". If your child or sibling uses AAC, they may not get as many chances to interact as their peers, but that doesn't mean you can't have meaningful connections with them. Here are a few things to keep in mind when talking with someone who uses AAC.
 
+{% include aac-handouts.html for='partner' %}
+
 <b>Respond to What They Say</b>. Sometimes we all say thing that are off-topic -- that's part of what makes communication so interesting! If your family member says something where you don't undertand what they mean, it's ok to tell them that. You can also respond to what you think they might possibly mean. Occasionally you could ask them for clarification, but just remember that overloading the conversation with questions can get tiring and frustrating.
 
 <b>It's Ok if They Don't Say Anything</b>. It can take time and work to come up with a response using AAC. First you need to think of what you want to say, then you need to think of what words you have available that would get your point across, then you have to navigate to and select those words in order. Sometimes it's not worth it, it's not doable, or you don't know how. Give your family member time to respond, but also don't be afraid to move on if they don't have something to say. If they give permission, you could also show them examples of how you might respond if you were them.
