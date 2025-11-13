@@ -16,6 +16,7 @@ Everyone can benefit from learning more about AAC! Below are a collection of lea
 
 <h3>Topics</h3>
 - <a href="#support">Support Resources</a>
+- <a href="#topics">Important Topics</a>
 - <a href="#lessons">Online Lessons</a>
 - <a href="#cloud">AAC In The Cloud</a>
 - <a href="#meetups">Conferences and Meetups</a>
@@ -25,6 +26,43 @@ Everyone can benefit from learning more about AAC! Below are a collection of lea
 <h2>Support Resources</h2>
 <img src='/images/logos/uatt.jpeg' class='clipart left'/>
 <a href="https://jobs.utah.gov/usor/vr/services/uatt.html">Utah Assistive Technology Teams (UATT)</a> support school LEAs and IEP teams to evaluate, acquire, and manage assistive technology for students with disabilities. We support and coordinate with multi-disciplinary educational and rehabilitation teams to train students, caregivers, educators, and service providers in the use of assistive technology in education and in the major life functions of students with disabilities.
+
+<a name="topics" style='margin-bottom: 50px; display: block; visibility: hidden;'></a>
+<h2>Important Topics</h2>
+<div style='margin-bottom: 30px;'>
+<img src="/images/competencies.png" style='max-width: 200px; max-height: 200px; float: left; margin-right: 5px;' />
+<a href="https://www.tandfonline.com/doi/full/10.3109/07434618.2014.885080">Communicative Competencies</a> - there is more to communication than just knowing which words to say. Janice Light proposes 5 competencies, or skills areas, that AAC users need support to develop: Operational, Social, Linguistic, Strategic and Emotional.
+<div style='clear: left;'></div>
+</div>
+
+<div style='margin-bottom: 30px;'>
+<img src="/images/aac-autonomy.png" style='max-width: 200px; max-height: 200px; float: left; margin-right: 5px;' />
+<a href="https://aaclanguagelab.com/articles/myfilesMH2Prof?mode=view">Autonomy and Self-Determination Theory</a> - AAC users may not be able to accomplish full independence, but with support they can develop autonomy and be in control of their lives by making choices and directing the experiences around them.
+<div style='clear: left;'></div>
+</div>
+
+<div style='margin-bottom: 30px;'>
+<img src="/images/prompt-hierarchy.png" style='max-width: 200px; max-height: 200px; float: left; margin-right: 5px;' />
+<a href="https://www.canva.com/design/DAFbT9-6ExE/bdRp7SVEZ4psml7c2-2i4Q/view">Revisiting the Prompting Hierarchy</a> - The prompting hierarchy is a legacy tool still used in many settings to try to provide the "right" level of support to help in choice-making and communication. Forcing someone to do something with their body is not appropriate, but there are other considerations around this hierarchy as well.
+<div style='clear: left;'></div>
+</div>
+
+<div style='margin-bottom: 30px;'>
+<img src="/images/owl.png" style='max-width: 200px; max-height: 200px; float: left; margin-right: 5px;' />
+<a href="https://www.northshorepediatric.com/blog/what-is-owl-and-why-is-it-so-important">OWL - Observe, Wait, Listen</a> and 
+<a href="https://www.hanen.org/information-tips/waiting-the-key-to-supporting-your-childs-communication">The Power of Waiting</a> - Wait times are an important part of communication, and people who use AAC may need their support team to learn to wait longer than they are used to. OWL is one strategy to help teach this important skill.
+<div style='clear: left;'></div>
+</div>
+
+<div style='margin-bottom: 30px;'>
+<img src="/images/crowd-car.png" style='max-width: 200px; max-height: 200px; float: left; margin-right: 5px;' />
+<a href="https://www.pattan.net/assets/PaTTAN/58/5896f57c-bfea-40a9-b2f9-c160f71141a5.pdf">CAR - Comment, Ask, Respond</a> - CAR is a strategy for helping to create communication opportunities when reading together. It can help encourage participation without making it feel like a high-stakes assessment.
+<div style='clear: left;'></div>
+</div>
+
+
+
+
 
 <a name="lessons" style='margin-bottom: 50px; display: block; visibility: hidden;'></a>
 <h2>Online Lessons</h2>
